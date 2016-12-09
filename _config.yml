@@ -1,0 +1,9 @@
+# Site settings
+title: Open Network Infrastructure Association
+email: info@opennetworkinfrastructure.org
+description: Promoting open network infrastructure
+baseurl: ''
+url: https://opennetworkinfrastructure.org
+
+# Build settings
+markdown: kramdown
