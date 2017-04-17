@@ -4,14 +4,16 @@
             {% include {{page.cta}} %}
         {% endif %}
 
-        <footer id="footer">
-            <ul class="icons">
-                <li><a href="https://github.com/open-network-infrastructure" class="icon fa-github"><span class="label">Github</span></a></li>
-            </ul>
-            <ul class="copyright">
-                <li>&copy; Open Network Infrastructure Association. <a href="https://github.com/open-network-infrastructure/open-network-infrastructure.github.io/blob/master/LICENSE">CC-BY-SA 4.0</a> - <a href="mailto:info@makezurich.ch">info@opennetworkinfrastructure.org</a></li>
-            </ul>
-        </footer>
+        {% if page.footer != 'disabled' %}
+            <footer id="footer">
+                <ul class="icons">
+                    <li><a href="https://github.com/open-network-infrastructure" class="icon fa-github"><span class="label">Github</span></a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy; Open Network Infrastructure Association. <a href="https://github.com/open-network-infrastructure/open-network-infrastructure.github.io/blob/master/LICENSE">CC-BY-SA 4.0</a> - <a href="mailto:info@makezurich.ch">info@opennetworkinfrastructure.org</a></li>
+                </ul>
+            </footer>
+        {% endif %}
 
         <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
         <script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
