@@ -1592,7 +1592,7 @@
             #navPanel {
                 @include vendor('backface-visibility', 'hidden');
                 @include vendor('transform', 'translateX(#{_size(navPanel) * -1})');
-                @include vendor('transition', ('transform #{_duration(navPanel)} ease'));
+                @include vendor('transition', ('transform #{_duration(navPanel)} cubic-bezier(0.4, 0.0, 0.2, 1)'));
                 display: block;
                 height: 100%;
                 left: 0;
