@@ -1339,7 +1339,7 @@
             }
         }
 
-        .copyright {
+        .footer-details {
             color: _palette(fg-light);
             font-size: 0.9em;
             line-height: 1em;
@@ -1837,11 +1837,11 @@
             #footer {
                 padding: 4em 0;
 
-                .copyright {
+                .footer-details {
                     li {
                         border-left: 0;
                         display: block;
-                        line-height: 2em;
+                        line-height: 1.5em;
                         margin-left: 0;
                         padding-left: 0;
                     }
