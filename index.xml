@@ -1,155 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Open Network Infrastructure Association</title>
-    <link>https://opennetworkinfrastructure.org/</link>
-    <description>Recent content on Open Network Infrastructure Association</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 12:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://opennetworkinfrastructure.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Resources</title>
-      <link>https://opennetworkinfrastructure.org/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/links/</guid>
-      <description>Here is a short collection of useful links and resources related to our activities:
- Join the conversation on Slack . Our open source repositories:  Articles of Association . Open documents . This website .  Some of our presentations:  The Road to Open Networks . The Things Network: Basic presentation .  Swiss communities of The Things Network:  Switzerland  Basel  Bern  Geneva  Lausanne  Luzern  Sion  Solothurn  St.</description>
-    </item>
-    
-    <item>
-      <title>Join us!</title>
-      <link>https://opennetworkinfrastructure.org/join/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/join/</guid>
-      <description>We promote networks that are free as in speech and free as in beer. That means freely accessible by anyone, at anytime, without having to ask for permission.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open Network Infrastructure Association</title><link>https://opennetworkinfrastructure.org/</link><description>Recent content on Open Network Infrastructure Association</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Mar 2018 12:00:00 +0000</lastBuildDate><atom:link href="https://opennetworkinfrastructure.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Resources</title><link>https://opennetworkinfrastructure.org/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/links/</guid><description>Here is a short collection of useful links and resources related to our activities:
+Join the conversation on Slack . Our open source repositories: Articles of Association . Open documents . This website . Some of our presentations: The Road to Open Networks . The Things Network: Basic presentation . Swiss communities of The Things Network: Switzerland Basel Bern Geneva Lausanne Luzern Sion Solothurn St.</description></item><item><title>Join us!</title><link>https://opennetworkinfrastructure.org/join/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/join/</guid><description>We promote networks that are free as in speech and free as in beer. That means freely accessible by anyone, at anytime, without having to ask for permission.
 You can read the full articles of association here .
-Great to hear you want to join us! *  indicates required Email Address *    First Name *    Last Name *    Organization   Address   Address Line 2  City  State/Province/Region  Postal / Zip Code  Country Aaland Islands Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Congo Cook Islands Costa Rica Cote D&amp;rsquo;Ivoire Croatia Cuba Curacao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guyana Haiti Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey (Channel Islands) Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Lao People&amp;rsquo;s Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Qatar Republic of Kosovo Reunion Romania Russia Rwanda Saint Kitts and Nevis Saint Lucia Saint Martin Saint Vincent and the Grenadines Samoa (Independent) San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks &amp;amp; Caicos Islands Uganda Ukraine United Arab Emirates United Kingdom USA Uruguay Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Vietnam Virgin Islands (British) Virgin Islands (U.</description>
-    </item>
-    
-    <item>
-      <title>To the infinite and beyond</title>
-      <link>https://opennetworkinfrastructure.org/post/to-the-infinite-and-beyond/</link>
-      <pubDate>Fri, 02 Mar 2018 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/post/to-the-infinite-and-beyond/</guid>
-      <description>&lt;p&gt;We recently achieved an incredible milestone in the Zürich community of &lt;a href=&#34;https://www.thethingsnetwork.org/community/zurich/&#34; target=&#34;_blank&#34;&gt;The Things Network&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;: &lt;strong&gt;we crossed the 100 gateway mark&lt;/strong&gt;!&lt;/p&gt;
-
+Great to hear you want to join us! * indicates required Email Address * First Name * Last Name * Organization Address Address Line 2 City State/Province/Region Postal / Zip Code Country Aaland Islands Afghanistan Albania Algeria American Samoa Andorra Angola Anguilla Antigua And Barbuda Argentina Armenia Aruba Australia Austria Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bermuda Bhutan Bolivia Bonaire, Saint Eustatius and Saba Bosnia and Herzegovina Botswana Bouvet Island Brazil Brunei Darussalam Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Cayman Islands Central African Republic Chad Chile China Christmas Island Colombia Comoros Congo Cook Islands Costa Rica Cote D&amp;rsquo;Ivoire Croatia Cuba Curacao Cyprus Czech Republic Democratic Republic of the Congo Denmark Djibouti Dominica Dominican Republic Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Falkland Islands Faroe Islands Fiji Finland France French Guiana French Polynesia Gabon Gambia Georgia Germany Ghana Gibraltar Greece Greenland Grenada Guadeloupe Guam Guatemala Guernsey Guinea Guyana Haiti Honduras Hong Kong Hungary Iceland India Indonesia Iran Iraq Ireland Isle of Man Israel Italy Jamaica Japan Jersey (Channel Islands) Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Lao People&amp;rsquo;s Democratic Republic Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macau Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Martinique Mauritania Mauritius Mayotte Mexico Moldova, Republic of Monaco Mongolia Montenegro Montserrat Morocco Mozambique Myanmar Namibia Nepal Netherlands Netherlands Antilles New Caledonia New Zealand Nicaragua Niger Nigeria Niue Norfolk Island North Korea Norway Oman Pakistan Palau Palestine Panama Papua New Guinea Paraguay Peru Philippines Pitcairn Poland Portugal Qatar Republic of Kosovo Reunion Romania Russia Rwanda Saint Kitts and Nevis Saint Lucia Saint Martin Saint Vincent and the Grenadines Samoa (Independent) San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia Seychelles Sierra Leone Singapore Sint Maarten Slovakia Slovenia Solomon Islands Somalia South Africa South Georgia and the South Sandwich Islands South Korea South Sudan Spain Sri Lanka Sudan Suriname Svalbard and Jan Mayen Islands Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Timor-Leste Togo Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Turks &amp;amp; Caicos Islands Uganda Ukraine United Arab Emirates United Kingdom USA Uruguay Uzbekistan Vanuatu Vatican City State (Holy See) Venezuela Vietnam Virgin Islands (British) Virgin Islands (U.</description></item><item><title>To the infinite and beyond</title><link>https://opennetworkinfrastructure.org/post/to-the-infinite-and-beyond/</link><pubDate>Fri, 02 Mar 2018 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/post/to-the-infinite-and-beyond/</guid><description>&lt;p&gt;We recently achieved an incredible milestone in the Zürich community of &lt;a href=&#34;https://www.thethingsnetwork.org/community/zurich/&#34; target=&#34;_blank&#34;&gt;The Things Network&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;: &lt;strong&gt;we crossed the 100 gateway mark&lt;/strong&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://opennetworkinfrastructure.org/images/post/100-gateways.png&#34; alt=&#34;100 Gateways&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Our Vision</title>
-      <link>https://opennetworkinfrastructure.org/core/vision/</link>
-      <pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/core/vision/</guid>
-      <description>&lt;p&gt;We aim to establish the principles of open network infrastructure on the basis of &lt;a href=&#34;http://opendefinition.org/&#34; target=&#34;_blank&#34;&gt;The Open Definition&lt;/a&gt;&lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt; in relation to network access.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Open Internet Award</title>
-      <link>https://opennetworkinfrastructure.org/post/open-internet-award/</link>
-      <pubDate>Fri, 20 Oct 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/post/open-internet-award/</guid>
-      <description>&lt;p&gt;We are very, very happy to announce that today our Open Network Infrastructure Association has been awarded in the category Open Internet at the very first edition of &lt;a href=&#34;https://dinacon.ch/&#34; target=&#34;_blank&#34;&gt;DINAcon&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;, the conference for digital sustainability.&lt;/p&gt;
-
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Our Vision</title><link>https://opennetworkinfrastructure.org/core/vision/</link><pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/vision/</guid><description>&lt;p&gt;We aim to establish the principles of open network infrastructure on the basis of &lt;a href=&#34;http://opendefinition.org/&#34; target=&#34;_blank&#34;&gt;The Open Definition&lt;/a&gt;&lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt; in relation to network access.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Open Internet Award</title><link>https://opennetworkinfrastructure.org/post/open-internet-award/</link><pubDate>Fri, 20 Oct 2017 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/post/open-internet-award/</guid><description>&lt;p&gt;We are very, very happy to announce that today our Open Network Infrastructure Association has been awarded in the category Open Internet at the very first edition of &lt;a href=&#34;https://dinacon.ch/&#34; target=&#34;_blank&#34;&gt;DINAcon&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;, the conference for digital sustainability.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://opennetworkinfrastructure.org/images/post/dinacon.jpg&#34; alt=&#34;Open Internet Award at DINACon&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Tamedia joins the Zürich community</title>
-      <link>https://opennetworkinfrastructure.org/post/tamedia/</link>
-      <pubDate>Sun, 06 Aug 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/post/tamedia/</guid>
-      <description>&lt;p&gt;We are extremely excited to announce that &lt;a href=&#34;https://www.tamedia.ch/en/&#34; target=&#34;_blank&#34;&gt;Tamedia&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt; is joining the Zürich community of The Things Network and has just deployed a new outdoors gateway in the heart of the city!&lt;/p&gt;
-
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Tamedia joins the Zürich community</title><link>https://opennetworkinfrastructure.org/post/tamedia/</link><pubDate>Sun, 06 Aug 2017 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/post/tamedia/</guid><description>&lt;p&gt;We are extremely excited to announce that &lt;a href=&#34;https://www.tamedia.ch/en/&#34; target=&#34;_blank&#34;&gt;Tamedia&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt; is joining the Zürich community of The Things Network and has just deployed a new outdoors gateway in the heart of the city!&lt;/p&gt;
 &lt;p&gt;Thank you very much to &lt;a href=&#34;https://twitter.com/maveonair&#34; target=&#34;_blank&#34;&gt;Fabian Mettler&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;, &lt;a href=&#34;https://twitter.com/thomasgresch&#34; target=&#34;_blank&#34;&gt;Thomas Gresch&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;, and everyone that made this possible!&lt;/p&gt;
-
 &lt;p&gt;Check out the &lt;a href=&#34;https://www.tamedia.ch/de/gruppe/newsroom/online-magazin/artikel/tamedia-mit-lorawan-gateway&#34; target=&#34;_blank&#34;&gt;official press release&lt;/a&gt; &lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Make Zurich hackathon</title>
-      <link>https://opennetworkinfrastructure.org/post/make-zurich-2017/</link>
-      <pubDate>Thu, 16 Feb 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/post/make-zurich-2017/</guid>
-      <description>&lt;p&gt;Between January 27th and February 4th, Zürich was the stage of a community-organized hackathon around the topic of civic technologies, and in particular, The Things Network currently operated in the city.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Founding Day</title>
-      <link>https://opennetworkinfrastructure.org/post/founding/</link>
-      <pubDate>Tue, 30 Aug 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/post/founding/</guid>
-      <description>&lt;p&gt;Yesterday was an amazing day: after months in the making, we finally sealed the deal and founded a civil association to support and promote swiss TTN communities and -more generally- open network infrastructure projects in the country!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Articles of Association</title>
-      <link>https://opennetworkinfrastructure.org/core/articles-of-association/</link>
-      <pubDate>Mon, 29 Aug 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/core/articles-of-association/</guid>
-      <description>&lt;p&gt;All details about the constitution, purpose and definitions of the association are publicly available in our &lt;strong&gt;Articles of Association&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Executive committee</title>
-      <link>https://opennetworkinfrastructure.org/core/executive-committee/</link>
-      <pubDate>Sun, 28 Aug 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/core/executive-committee/</guid>
-      <description>&lt;p&gt;The executive committee is the body that leads the association&amp;rsquo;s day to day operations. Its members are elected by the General Assembly.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Make Zurich hackathon</title>
-      <link>https://opennetworkinfrastructure.org/projects/make-zurich/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/projects/make-zurich/</guid>
-      <description>The idea of running an event like MakeZurich starts out of a series of informal meetings between members of Open Data Zürich and The Things Network Zürich community.
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Make Zurich hackathon</title><link>https://opennetworkinfrastructure.org/post/make-zurich-2017/</link><pubDate>Thu, 16 Feb 2017 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/post/make-zurich-2017/</guid><description>&lt;p&gt;Between January 27th and February 4th, Zürich was the stage of a community-organized hackathon around the topic of civic technologies, and in particular, The Things Network currently operated in the city.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Founding Day</title><link>https://opennetworkinfrastructure.org/post/founding/</link><pubDate>Tue, 30 Aug 2016 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/post/founding/</guid><description>&lt;p&gt;Yesterday was an amazing day: after months in the making, we finally sealed the deal and founded a civil association to support and promote swiss TTN communities and -more generally- open network infrastructure projects in the country!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Articles of Association</title><link>https://opennetworkinfrastructure.org/core/articles-of-association/</link><pubDate>Mon, 29 Aug 2016 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/articles-of-association/</guid><description>&lt;p&gt;All details about the constitution, purpose and definitions of the association are publicly available in our &lt;strong&gt;Articles of Association&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Executive committee</title><link>https://opennetworkinfrastructure.org/core/executive-committee/</link><pubDate>Sun, 28 Aug 2016 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/executive-committee/</guid><description>&lt;p&gt;The executive committee is the body that leads the association&amp;rsquo;s day to day operations. Its members are elected by the General Assembly.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description></item><item><title>Make Zurich hackathon</title><link>https://opennetworkinfrastructure.org/projects/make-zurich/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/projects/make-zurich/</guid><description>The idea of running an event like MakeZurich starts out of a series of informal meetings between members of Open Data Zürich and The Things Network Zürich community.
 Concept The concept of the event is to bridge the city government with the maker community by gathering problems and real needs of the public administration and exposing the community to them to foster fresh ideas and creative solutions.
-Format The organizing team explored different formats for the event, ranging from a 6-months long open challenge, to a traditional 2-day hackathon.</description>
-    </item>
-    
-    <item>
-      <title>The Things Network</title>
-      <link>https://opennetworkinfrastructure.org/projects/ttn/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opennetworkinfrastructure.org/projects/ttn/</guid>
-      <description>The Things Network  is building a network for the Internet of Things by creating abundant data connectivity, so applications and businesses can flourish.
+Format The organizing team explored different formats for the event, ranging from a 6-months long open challenge, to a traditional 2-day hackathon.</description></item><item><title>The Things Network</title><link>https://opennetworkinfrastructure.org/projects/ttn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/projects/ttn/</guid><description>The Things Network is building a network for the Internet of Things by creating abundant data connectivity, so applications and businesses can flourish.
 The technology used is called LoRaWAN and it allows for things to talk to the internet without 3G or WiFi. So no WiFi codes and no mobile subscriptions.
 It features low battery usage, long range and low bandwidth. Perfect for the internet of things.
-Building a fully distributed internet of things data infrastructure LoRaWAN has the potential to enable an entire new class of use cases for the Internet of Things, but we need to open this up to the hacker/maker community.</description>
-    </item>
-    
-  </channel>
-</rss>
+Building a fully distributed internet of things data infrastructure LoRaWAN has the potential to enable an entire new class of use cases for the Internet of Things, but we need to open this up to the hacker/maker community.</description></item></channel></rss>
