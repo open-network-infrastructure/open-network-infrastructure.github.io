@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cores on Open Network Infrastructure Association</title><link>https://opennetworkinfrastructure.org/core/</link><description>Recent content in Cores on Open Network Infrastructure Association</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 17 Nov 2017 12:00:00 +0000</lastBuildDate><atom:link href="https://opennetworkinfrastructure.org/core/index.xml" rel="self" type="application/rss+xml"/><item><title>Our Vision</title><link>https://opennetworkinfrastructure.org/core/vision/</link><pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/vision/</guid><description>&lt;p>We aim to establish the principles of open network infrastructure on the basis of &lt;!-- raw HTML omitted -->The Open Definition&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> in relation to network access.&lt;/p></description></item><item><title>Articles of Association</title><link>https://opennetworkinfrastructure.org/core/articles-of-association/</link><pubDate>Mon, 29 Aug 2016 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/articles-of-association/</guid><description>&lt;p>All details about the constitution, purpose and definitions of the association are publicly available in our &lt;strong>Articles of Association&lt;/strong>.&lt;/p></description></item><item><title>Executive committee</title><link>https://opennetworkinfrastructure.org/core/executive-committee/</link><pubDate>Sun, 28 Aug 2016 12:00:00 +0000</pubDate><guid>https://opennetworkinfrastructure.org/core/executive-committee/</guid><description>&lt;p>The executive committee is the body that leads the association&amp;rsquo;s day to day operations. Its members are elected by the General Assembly.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cores on Open Network Infrastructure Association</title>
+    <link>https://opennetworkinfrastructure.org/core/</link>
+    <description>Recent content in Cores on Open Network Infrastructure Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Nov 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://opennetworkinfrastructure.org/core/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Vision</title>
+      <link>https://opennetworkinfrastructure.org/core/vision/</link>
+      <pubDate>Fri, 17 Nov 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://opennetworkinfrastructure.org/core/vision/</guid>
+      <description>&lt;p&gt;We aim to establish the principles of open network infrastructure on the basis of &lt;a href=&#34;http://opendefinition.org/&#34; target=&#34;_blank&#34;&gt;The Open Definition&lt;/a&gt;&lt;i class=&#34;fa fa-external-link&#34;&gt;&lt;/i&gt; in relation to network access.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Articles of Association</title>
+      <link>https://opennetworkinfrastructure.org/core/articles-of-association/</link>
+      <pubDate>Mon, 29 Aug 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://opennetworkinfrastructure.org/core/articles-of-association/</guid>
+      <description>&lt;p&gt;All details about the constitution, purpose and definitions of the association are publicly available in our &lt;strong&gt;Articles of Association&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Executive committee</title>
+      <link>https://opennetworkinfrastructure.org/core/executive-committee/</link>
+      <pubDate>Sun, 28 Aug 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://opennetworkinfrastructure.org/core/executive-committee/</guid>
+      <description>&lt;p&gt;The executive committee is the body that leads the association&amp;rsquo;s day to day operations. Its members are elected by the General Assembly.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
